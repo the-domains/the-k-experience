@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The K Experience]]></title>
+        <description><![CDATA[The K Experience]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 13:02:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[À L'ECOLE DE LA VIE - par Sêssi Hounkanrin pour La solution est en vous!]]></title>
+            <description><![CDATA[<article><h1>À L'ECOLE DE LA VIE - par Sêssi Hounkanrin pour La solution est en vous!</h1><p>Qu'est ce que la Vie représente pour Vous ? Pour moi, la Vie est une école et nous sommes tous un jour ou l'autre amenés à bénéficier de ses enseignements. En effet, la vie nous offre cette possibilité, d'apprendre, d'évoluer de grandir et d'être une contribution positive à notre entourage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35c02b586b4e37789a179e68d701ab9f96279afb.jpg"></article>]]></description>
+            <link>http://lasolutionestenvous.com/a-lecole-de-la-vie/</link>
+            <guid isPermaLink="false">4d485066-f5c8-4a46-b9ce-b424869c9b25</guid>
+            <pubDate>Tue, 08 Mar 2016 13:02:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
